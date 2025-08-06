@@ -1,4 +1,4 @@
-Take a look at the papers attached. Create a simscape model for a flexible spine quadruped based on the images in these papers, in stages.
+Take a look at the papers attached (flexi-spine 1 and 3). Create a simscape model for a flexible spine quadruped based on the images in these papers, in stages.
 
 - Stage 1 - create a planar biped model, i.e. a cross-section model of the quadrupeds shown in the paper. To the tip of each leg bottom prescribe some cyclic motion. The motion should be out of phase but same frequency for the front and back legs. Visualise and analyse the motion. Create graphs and gifs of the movement.
 
